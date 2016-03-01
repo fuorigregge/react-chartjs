@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/jhudson8/react-chartjs",
   "dependencies": {
-    "react": "<=0.13.0",
-    "react-dom": "<=0.13.0",
+    "react": "*",
+    "react-dom": "*",
     "chartjs": "^0.3.7"
   },
   "devDependencies": {
